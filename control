@@ -1,0 +1,7 @@
+Package: jackpass
+Version: 1.0
+Section: Office
+Priority: optional
+Architecture: all
+Depends: python3
+Description: Jackpass - um aplicativo gerador de senhas
