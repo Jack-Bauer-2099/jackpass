@@ -3,5 +3,67 @@ Version: 1.0
 Section: Office
 Priority: optional
 Architecture: all
-Depends: python3, import random (pip install random), import string (pip install strings) 
-Description: Jackpass - um aplicativo gerador de senhas
+Depends: python3
+Description: Jackpass - um aplicativo gerador de senhas seguras que te dá a opção de criar uma senha, criptografar, salvar na pasta JackPass e descriptograr a senha criptografada.
+"""
+____________________________________________________________________________________________________________________________________________
+
+1. Python 3
+
+-> O programa é escrito em Python 3, portanto, o usuário precisa ter o Python 3 instalado.
+-> A maioria das distribuições Linux já vem com Python 3 instalado. Caso contrário, pode ser instalado via gerenciador de pacotes:
+
+sudo apt-get install python3
+
+____________________________________________________________________________________________________________________________________________
+
+2. Pip (Python Package Installer)
+
+-> O Pip é necessário para instalar pacotes Python adicionais, como o cryptography.
+-> Para instalar o Pip, o usuário pode executar:
+
+sudo apt-get install python3-pip
+
+____________________________________________________________________________________________________________________________________________
+
+3. Dependências de Pacotes Python
+
+-> O programa utiliza a biblioteca cryptography, que precisa ser instalada.
+
+-> O usuário pode instalar a dependência usando o Pip:
+
+pip3 install cryptography
+
+____________________________________________________________________________________________________________________________________________
+
+4. Permissões de Escrita no Sistema de Arquivos
+
+-> O programa cria uma pasta chamada "JackPassDrive" e salva arquivos nela.
+
+-> O usuário deve ter permissões de escrita no diretório onde o programa será executado.
+
+____________________________________________________________________________________________________________________________________________
+
+5. Editor de Texto ou Terminal
+
+-> O usuário deve ser capaz de editar ou executar scripts Python a partir do terminal ou de um editor de texto que suporte Python.
+
+____________________________________________________________________________________________________________________________________________
+
+6. Ambiente de Execução
+
+O programa pode ser executado diretamente no terminal Linux usando:
+-> python3 nome_do_arquivo.py
+
+O arquivo nome_do_arquivo.py deve ser marcado como executável, o que pode ser feito com:
+-> chmod +x nome_do_arquivo.py
+____________________________________________________________________________________________________________________________________________
+7. Resumo dos Comandos de Instalação:
+-> Para preparar o ambiente no Linux, o usuário pode seguir este conjunto de comandos:
+
+sudo apt-get update
+sudo apt-get install python3 python3-pip
+pip3 install cryptography
+
+Após esses passos, o usuário deve estar pronto para executar o programa "Jack Pass - Gerador de Senhas" no Linux. 
+"""
