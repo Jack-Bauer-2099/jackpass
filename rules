@@ -1,9 +1,0 @@
-#!/usr/bin/make -f
-
-# Compilação do pacote
-build:
-    $(MAKE) -C src
-
-# Instalação do pacote
-install:
-    $(MAKE) -C src install
