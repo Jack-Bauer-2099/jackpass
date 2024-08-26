@@ -13,19 +13,30 @@ Jack Pass 1.0
 Opção (1) Gerar uma senha segura
 
 Digite seu nome:
+
 Digite seu Username: 
+
 Digite seu e-mail: 
+
 Digite o Nome do domínio site: 
+
 Digite ou copie a URLs do site: 
+
 Digite 0 tamanho da senha: 
+
 Deseja incluir letra maiúscula (s/n): 
+
 Deseja incluir letra minúscula (s/n): 
+
 Deseja incluir números (s/n): 
+
 Deseja incluir caracteres especiais (s/n):
 
 Senha Gerada: xxxxxxxxxxxxx
 
-Deseja criptografar sua senha (s/n): Digite uma senha ou frase para criptografia:
+Deseja criptografar sua senha (s/n): 
+
+Digite uma senha ou frase para criptografia:
 
 Seu arquivo foi salvo na pasta JACKPASS:
 
