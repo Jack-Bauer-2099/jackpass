@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Jack Pass
+Comment=Gerador de Senhas
+Exec=/usr/local/bin/jackpass
+Icon=/usr/local/share/icon/jackpass_icon.png
+Terminal=true
+Type=Application
+Categories=Office;
