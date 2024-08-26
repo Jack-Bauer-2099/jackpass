@@ -14,7 +14,7 @@ Opção (1) Gerar uma senha segura
 
 Digite seu nome:
 
-Digite seu Username: 
+Digite seu username: 
 
 Digite seu e-mail: 
 
@@ -32,7 +32,7 @@ Deseja incluir números (s/n):
 
 Deseja incluir caracteres especiais (s/n):
 
-Senha Gerada: xxxxxxxxxxxxx
+Senha Gerada: **********
 
 Deseja criptografar sua senha (s/n): 
 
