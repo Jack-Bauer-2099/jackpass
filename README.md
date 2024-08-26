@@ -42,4 +42,6 @@ Seu arquivo foi salvo na pasta JACKPASS:
 
 Opção (2) Descriptografia
 
-Digite ou cole a senha criptografada: Digite a senha ou frase secreta:
+Digite ou cole a senha criptografada: 
+
+Digite a senha ou frase secreta:
