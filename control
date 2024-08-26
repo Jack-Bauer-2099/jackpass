@@ -3,5 +3,5 @@ Version: 1.0
 Section: Office
 Priority: optional
 Architecture: all
-Depends: python3
+Depends: python3, import random (pip install random), import string (pip install strings) 
 Description: Jackpass - um aplicativo gerador de senhas
