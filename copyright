@@ -1,8 +1,0 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-4.0-standalone
-Upstream-Name: jackpass
-Upstream-Contact:jackbauer2018@protonmail.com
-Source: https://github.com/Jack-Bauer-2099/jackpass
-
-Files: *
-Copyright: 2024 Jack Bauer
-License: GPL-3+
