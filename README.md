@@ -3,7 +3,7 @@ Este aplicativo foi criado para ajudar, facilitar, ser acessivel e proteger noss
 
 Acredito que será muito util para todos os usuarios que necessitam criar senhas seguras e a opção de salvar em seu pc através da pasta JACKPASS a senha em formato .txt criptografado ou não. 
 
-Duvidas, sugestões: jackbauer2018@protonmail.com 
+
 
 
 ***Brasil um país de todos!***
